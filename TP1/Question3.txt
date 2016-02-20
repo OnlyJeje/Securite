@@ -1,0 +1,5 @@
+Ce que nous suggérons pour le choix de mots de passes est d'éviter de les composer
+ de mots existants et de favoriser des mots de passes long. Les caractères spéciaux sont
+ un plus mais la longueur du mot de passe est un facteur plus déterminant. Une stratégie
+ simple pourrait être de choisir une phrase assez longue, et de ne prendre que la première
+ lettre de chaque mots pour en faire un mot de passe.
