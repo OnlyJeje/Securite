@@ -1,0 +1,18 @@
+Question1:
+cle = 3
+ETQUEFAITLESAINTDANSLESBOISDEMANDAZARATHOUSTRA
+
+Question2a:
+mots de passes: angine - carrottez - correlai - extasiez - hachages - hand - hydrater - myrrhe - pleurons - wenzes
+
+Question2b:
+Le code fonctionne sous la forme d'un compteur kilométrique afin d'énumérer tous les mots de passes possible. Chaque mot de passe généré est ensuite 
+transcrit en MD5 puis comparé avec les mots de passes qui n'ont pas été trouvé par l'exercice d'avant. Si une comparaison est correcte, 
+le mot de passe en clair est stocké dans un tableau et est affiché.
+
+Question 3:
+Ce que nous suggérons pour le choix de mots de passes est d'éviter de les composer 
+de mots existants et de favoriser des mots de passes long. Les caractères spéciaux sont 
+un plus mais la longueur du mot de passe est un facteur plus déterminant. Une stratégie 
+simple pourrait être de choisir une phrase assez longue, et de ne prendre que la première 
+lettre de chaque mots pour en faire un mot de passe.
